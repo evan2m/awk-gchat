@@ -17,7 +17,7 @@ You should see::
     dead_time: 6 minutes
 
 To run it on your own transcript, pull up the chat log in Gmail,
-press print and then cut and pasted it into a text file::
+press print and then cut and paste it into a text file::
 
     gawk -f parse_gchat.awk my_transcript.txt
 
